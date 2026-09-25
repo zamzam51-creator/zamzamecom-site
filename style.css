@@ -118,4 +118,5 @@ a:focus-visible {
 @media (max-width: 480px) {
   .wrap { padding: 0 1rem; }
   .hero { padding: 4rem 0 3rem; }
+  h1 { font-size: 1.875rem; }
 }
